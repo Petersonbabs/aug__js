@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Bluetooth Headphones",
+    "category": "Electronics",
+    "price": 49.99,
+    "inStock": true
+  },
+  {
+    "id": 2,
+    "name": "Men's Running Sneakers",
+    "category": "Footwear",
+    "price": 75.5,
+    "inStock": true
+  },
+  {
+    "id": 3,
+    "name": "Stainless Steel Water Bottle",
+    "category": "Home & Kitchen",
+    "price": 18.99,
+    "inStock": false
+  },
+  {
+    "id": 4,
+    "name": "LED Desk Lamp",
+    "category": "Office",
+    "price": 29.5,
+    "inStock": true
+  },
+  {
+    "id": 5,
+    "name": "Cotton T-Shirt",
+    "category": "Apparel",
+    "price": 12.0,
+    "inStock": true
+  },
+  {
+    "id": 6,
+    "name": "Gaming Mouse",
+    "category": "Electronics",
+    "price": 35.75,
+    "inStock": true
+  },
+  {
+    "id": 7,
+    "name": "Yoga Mat",
+    "category": "Sports & Outdoors",
+    "price": 22.99,
+    "inStock": false
+  },
+  {
+    "id": 8,
+    "name": "Smart Watch",
+    "category": "Electronics",
+    "price": 120.0,
+    "inStock": true
+  },
+  {
+    "id": 9,
+    "name": "Ceramic Coffee Mug",
+    "category": "Home & Kitchen",
+    "price": 9.99,
+    "inStock": true
+  },
+  {
+    "id": 10,
+    "name": "Portable Power Bank",
+    "category": "Electronics",
+    "price": 27.49,
+    "inStock": true
+  }
+]
